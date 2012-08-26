@@ -3,6 +3,13 @@ Fighting-Blind-Prototype
 
 A rapid game prototype about fighting in the dark. Made in three days.
 
+Executable:
+----------
+
+If all you want to do is play the game, you can just download this file:
+
+https://www.dropbox.com/s/1u24kyz2uy4x3mw/FightingBlind.swf
+
 Controls:
 --------
 
