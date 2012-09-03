@@ -6,9 +6,9 @@ A rapid game prototype about fighting in the dark. Made in three days.
 Executable:
 ----------
 
-If all you want to do is play the game, you can just download this file:
+If all you want to do is play the game, you can just visit the following webpage:
 
-https://www.dropbox.com/s/1u24kyz2uy4x3mw/FightingBlind.swf
+http://interguild.org/livio/prototypes/FightingBlind.html
 
 Controls:
 --------
